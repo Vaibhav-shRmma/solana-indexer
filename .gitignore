@@ -1,0 +1,10 @@
+# Never push these
+.env
+target/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
